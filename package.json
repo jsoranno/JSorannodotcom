@@ -1,0 +1,22 @@
+{
+  "name": "jsoranno.com",
+  "version": "1.0.0",
+  "description": "Personal page of Juanita Soranno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsoranno/JSorannodotcom.git"
+  },
+  "keywords": [
+    "jsoranno.com"
+  ],
+  "author": "Juanita Soranno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsoranno/JSorannodotcom/issues"
+  },
+  "homepage": "https://github.com/jsoranno/JSorannodotcom#readme"
+}
