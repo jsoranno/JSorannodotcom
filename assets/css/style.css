@@ -208,6 +208,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Gallery */
 .gallery {
 	margin-top: 30px;
+	/* NEED TO LOOK INTO OVERLAY COLOR img:linear-gradient(rgba(128, 203, 196,0.5), rgba(128, 203, 196,0.7)),*/
 }
 
 .gallery img:hover {
